@@ -1,0 +1,14 @@
+.customButton {
+    color: whitesmoke;
+    padding: 20px;
+    background: #225cbf;
+    background: linear-gradient(0deg, rgba(34, 92, 191, 1) 31%, rgba(108, 164, 217, 1) 100%);
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    font-size: 20px;
+    transform: perspective(800px) rotateX(30deg);
+    box-shadow: 0 0 10px 10px rgb(195, 195, 207);
+    transition: all 0.4s linear;
+    cursor: pointer;
+
+}
